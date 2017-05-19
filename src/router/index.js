@@ -6,6 +6,7 @@ import Eveluation from '@/components/Eveluation/Eveluation'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
