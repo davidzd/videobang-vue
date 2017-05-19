@@ -1,6 +1,6 @@
 # money
 
-> Earb money
+> Earn money
 
 ## Build Setup
 
